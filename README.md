@@ -1,5 +1,6 @@
 # thirukurals
-a backup of my site's Thirukural page (Tamil and English)
+http://sivasuthan.com/thirukurals/
+<br>a backup of my site's Thirukural page (Tamil and English)
 
 preview:
 <br><br>
