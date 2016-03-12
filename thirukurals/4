@@ -1,0 +1,995 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"><meta name="description" content="thirukural in tamil, english and transliteration" /><meta id="ctl00_ctl00_ctrl_keywords" name="keywords" content="thirukural, thirukural tamil, thirukural english translation, thirukural transliteration, thirukural search, thirukkural, kural, திருக்குறள்" /><title>
+	Thirukural in Tamil, English and Transliteration
+</title>
+
+    
+
+
+<link rel="SHORTCUT ICON" href="../images/icons/logo.ICO" /><link href="../App_Themes/Theme1/pagestyles.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/Theme1/tabstyles.css" type="text/css" rel="stylesheet" /></head>
+<body class="body">
+    <form name="aspnetForm" method="post" action="4" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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4K6x4K6k4K+N4K6k4K6/4K6p4K+C4K6J4K6Z4K+NIOCuleCuvuCuleCvjeCuleCuruCvgeCuruCvjSDgrofgrrLgr43grrLgr4gg4K6F4K6k4K6p4K+IPGJyIC8+4K6u4K6x4K6k4K+N4K6k4K6y4K6/4K6p4K+NIOCuiuCumeCvjeCuleCuv+CusuCvjeCusuCviCDgrpXgr4fgrp/gr4GPAuCukuCusOCvgSDgrrXgrrDgr4Hgrp/gr4jgrq8g4K614K6+4K604K+N4K6V4K+I4K6V4K+N4K6V4K+BIOCuheCuseCupOCvjeCupOCviCDgrrXgrr/grp8g4K6o4K6p4K+N4K6u4K+I4K6v4K6+4K6p4K6k4K+B4K6u4K+NIOCuh+CusuCvjeCusuCviDog4K6F4K6x4K6k4K+N4K6k4K+IIOCuquCvi+CuseCvjeCuseCuvuCuruCusuCvjSDgrq7grrHgrqrgr43grqrgrqTgr4gg4K614K6/4K6f4K6V4K+N4K6V4K+K4K6f4K6/4K6v4K6k4K+B4K6u4K+NIOCuh+CusuCvjeCusuCviC7HAeCuheCuseCuruCvjSDgrprgr4bgrq/gr43grrXgrqTgr4gg4K614K6/4K6fIOCuqOCuqeCvjeCuruCviOCur+CvgeCuruCvjSDgrofgrrLgr43grrLgr4guIOCuheCupOCviOCumuCvjSDgrprgr4bgrq/gr43grq8g4K6u4K6x4K6q4K+N4K6q4K6k4K+I4K614K6/4K6fIOCuleCvhuCun+CvgeCupOCuv+Cur+CvgeCuruCvjSDgrofgrrLgr43grrLgr4iZA+CuqOCuqeCvjeCuruCviOCuleCus+Cuv+CuqeCvjSDgrrXgrr/grrPgr4jgrqjgrr/grrLgrq7grr7grpUg4K6H4K6w4K+B4K6V4K+N4K6V4K+B4K6u4K+NIOCuheCuseCupOCvjeCupOCviOCuquCvjSDgrqrgr4vgrrLgr40g4K6S4K6w4K+B4K614K6w4K+B4K6f4K+I4K6vIOCuteCuvuCutOCvjeCuleCvjeCuleCviOCuleCvjeCuleCvgSDgrobgrpXgr43grpXgrq7gr40g4K6k4K6w4K6V4K+N4K6V4K+C4K6f4K6/4K6v4K6k4K+BIOCujuCupOCvgeCuteCvgeCu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r4HgrrIg4K6o4K+A4K6wIOCuquCuv+CusbYC4K6S4K6w4K+B4K614K6p4K+NIOCupOCuqeCvjeCuruCuqeCupOCuv+CusuCvjSDgrpXgr4HgrrHgr43grrHgrq7gr40g4K6H4K6y4K+N4K6y4K6+4K6k4K614K6+4K6p4K6+4K6VIOCuh+CusOCvgeCuleCvjeCulSDgrrXgr4fgrqPgr43grp/gr4Hgrq7gr40uIOCuheCuseCuruCvjSDgroXgrrXgr43grrXgrrPgrrXgr4c6IOCuruCuqeCupOCvjeCupOCvguCur+CvjeCuruCviCDgrofgrrLgr43grrLgrr7grqQg4K6u4K6x4K+N4K6x4K614K+IIOCuhuCusOCuteCuvuCusOCupOCvjSDgrqTgrqngr43grq7gr4gg4K6J4K6f4K+I4K6v4K614K+ILpcD4K6u4K6p4K6k4K+N4K6k4K+BIOCuheCus+CuteCuv+CusuCvjSDgrpXgr4HgrrHgr43grrHgrq7gr40g4K6H4K6y4K+N4K6y4K6+4K6k4K614K6p4K6+4K6v4K+NIOCuhuCuleCvgeCulTsg4K6F4K6x4K6u4K+NIOCujuCuqeCvjeCuquCupOCvgSDgroXgrrXgr43grrXgrrPgrrXgr4c7IOCuquCuv+CusSDgrrXgrr7grrDgr43grqTgr43grqTgr4gg4K6o4K6f4K6/4K6q4K+N4K6q4K+B4K6u4K+NLCDgrrXgrr7grrTgr43grpXgr43grpXgr4gg4K614K+H4K6f4K6Z4K+N4K6V4K6z4K+B4K6V4K+N4K6V4K+B4K6u4K+NIOCuruCuseCvjeCuseCuteCusOCvjSDgroXgrrHgrr/grq/grprgr40g4K6a4K+G4K6v4K+N4K6v4K6q4K+N4K6q4K6f4K+B4K6u4K+NIOCuhuCun+CuruCvjeCuquCusOCumeCvjeCuleCus+Cvhy68AeCuruCuqeCuruCvjSDgrqTgr4Lgrq/gr43grq7gr4jgrq/grr7grpUg4K6H4K6w4K+B4K6q4K+N4K6q4K6k4K+HIOCuheCuseCuruCvjTsg4K6u4K6x4K+N4K6x4K614K+IIOCuhuCusOCuteCuvuCusOCupOCvjeCupOCviOCupOCvjSDgrqTgrrXgrr/grrAg4K614K+H4K6x4K+K4K6p4K+N4K6x4K+B4K6u4K6/4K6y4K+N4K6y4K+IAjM0eVNwb3RsZXNzIGJlIHRob3UgaW4gbWluZCEgVGhpcyBvbmx5IG1lcml0cyB2aXJ0dWUncyBuYW1lOzxiciAvPkFsbCBlbHNlLCBtZXJlIHBvbXAgb2YgaWRsZSBzb3VuZCwgbm8gcmVhbCB3b3J0aCBjYW4gY2xhaW1kTGV0IGhpbSB3aG8gZG9lcyB2aXJ0dW91cyBkZWVkcyBiZSBvZiBzcG90bGVzcyBtaW5kOyB0byB0aGF0IGV4dGVudCBpcyB2aXJ0dWU7IGFsbCBlbHNlIGlzIHZhaW4gc2hvd0lNYW5hdGh0aHVra2FuIE1hYXNpbGFuICBBYWRoYWwgIEFuYWl0aHRodSAgQXJhbjxiciAvPkFha3VsYSAgTmVlcmEgIFBpcmEgZAIBDw8WAh8GBQp+L2t1cmFsLzM0ZGQCBQ9kFgJmD2QWBGYPFQkCMzWkAeCuheCutOCvgeCuleCvjeCuleCuviDgrrHgrrXgrr7grrXgr4bgrpXgr4HgrrPgrr8g4K6H4K6p4K+N4K6p4K6+4K6a4K+N4K6a4K+K4K6y4K+NIOCuqOCuvuCuqeCvjeCuleCvgeCuruCvjTxiciAvPuCuh+CutOCvgeCuleCvjeCuleCuviDgrofgrq/grqngr43grrEg4K6k4K6x4K6u4K+NugIg4K6q4K+K4K6x4K6+4K6u4K+ILCDgrobgrprgr4gsIOCumuCuv+CuqeCuruCvjSwg4K6V4K6f4K+B4K6e4K+N4K6a4K+K4K6y4K+NIOCuhuCuleCuv+CuryDgrofgrqjgr43grqQg4K6o4K6+4K6p4K+N4K6V4K+BIOCuleCvgeCuseCvjeCuseCumeCvjeCuleCus+CvgeCuleCvjeCuleCvgeCuruCvjSDgrofgrp/grpngr43grpXgr4rgrp/gr4HgrpXgr43grpXgrr7grq7grrLgr40g4K6F4K614K6x4K+N4K6x4K+I4K6V4K+NIOCuleCun+Cuv+CupOCvjeCupOCvgSDgrpLgrrTgr4HgrpXgr4HgrrXgrqTgr4cg4K6F4K6x4K6u4K6+4K6V4K+B4K6u4K+NLuwD4K6q4K6/4K6x4K6w4K+NIOCuruCvh+CuqeCvjeCuruCviCDgrpXgrqPgr43grp/gr4Eg4K6q4K+K4K6x4K6+4K6u4K+ILCDgrqrgr4HgrrLgrqngr43grpXgrrPgr40g4K6q4K+L4K6V4K+B4K6u4K+NIOCuteCutOCuv+CumuCvjSDgrprgr4bgrrLgr43grrLgr4Hgrq7gr40g4K6G4K6a4K+ILCDgrofgrrXgr4gg4K6k4K6f4K+I4K6q4K6f4K+B4K6u4K+NIOCuquCvi+CupOCvgSDgrrXgrrDgr4Hgrq7gr40g4K6V4K+L4K6q4K6u4K+NLCDgrpXgr4vgrqrgrqTgr43grqTgrr/grrLgr40g4K6q4K6/4K6x4K6V4K+N4K6V4K+B4K6u4K+NIOCupOCvgOCuryDgrprgr4rgrrLgr40g4K6O4K6p4K+B4K6u4K+NIOCuh+CuqOCvjeCuqOCuvuCuqeCvjeCuleCviOCur+CvgeCuruCvjSDgrrXgrr/grrLgrpXgr43grpXgrr/grqTgr40g4K6k4K+K4K6f4K6w4K+N4K6o4K+N4K6k4K+BIOCumuCvhuCur+CvjeCur+CuquCvjeCuquCun+CvgeCuteCupOCvgSDgroXgrrHgrq7gr40ukgLgrqrgr4rgrrHgrr7grq7gr4gsIOCuquCvh+CusOCuvuCumuCviCwg4K6q4K+K4K6Z4K+N4K6V4K+B4K6u4K+NIOCuleCvi+CuquCuruCvjSwg4K6q4K+B4K6j4K+N4K6q4K6f4K+B4K6k4K+N4K6k4K+B4K6u4K+NIOCumuCviuCusuCvjSDgrobgrpXgrr/grq8g4K6H4K6o4K+N4K6kIOCuqOCuvuCuqeCvjeCuleCvgeCuruCvjSDgroXgrrHgrrXgrrTgrr/grpXgr43grpXgr4Hgrqrgr40g4K6q4K+K4K6w4K+B4K6o4K+N4K6k4K6+4K6k4K614K+I4K6V4K6z4K6+4K6V4K+B4K6u4K+NAjM1hQEnVGlzIHZpcnR1ZSB3aGVuLCBoaXMgZm9vdHN0ZXBzIHNsaWRpbmcgbm90IHRocm91Z2ggZW52eSwgd3JhdGgsPGJyIC8+THVzdCwgZXZpbCBzcGVlY2gtdGhlc2UgZm91ciwgbWFuIG9ud2FyZHMgbW92ZXMgaW4gb3JkZXJlZCBwYXRoaVRoYXQgY29uZHVjdCBpcyB2aXJ0dWUgd2hpY2ggaXMg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4K+B4K614K+G4K6pIOCuteCvh+Cuo+CvjeCun+CuviDgrprgrr/grrXgrr/grpXgr4g8YnIgLz7grqrgr4rgrrHgr4HgrqTgr43grqTgrr7grqngr4sg4K6f4K+C4K6w4K+N4K6o4K+N4K6k4K6+4K6p4K+NIOCuh+Cun+CviKsC4K6q4K6y4K+N4K6y4K6V4K+N4K6V4K+IIOCumuCvgeCuruCuquCvjeCuquCuteCuqeCvgeCuruCvjSDgroXgrqTgrqngr43grq7gr4fgrrLgrr/grrDgr4Hgrqjgr43grqTgr4Eg4K6K4K6w4K+N4K6o4K+N4K6k4K+BIOCumuCvhuCusuCvjeCusuCvgeCuteCvi+CuqeCvgeCuruCuvuCuleCuv+CuryDgroXgrrXgrrDgr43grpXgrrPgrr/grp/gr4jgrq/gr4cg4K6F4K6x4K6k4K+N4K6k4K6/4K6p4K+NIOCuquCur+CuqeCvjSDgrofgroPgrqTgr4Eg4K6O4K6p4K+N4K6x4K+BIOCuleCvguCuseCuteCvh+Cuo+CvjeCun+Cuvi7IA+CuheCuseCupOCvjeCupOCviOCumuCvjSDgrprgr4bgrq/gr43grrXgrqTgrr7grrLgr40g4K614K6w4K+B4K6u4K+NIOCuquCur+CuqeCvjSDgrofgrqTgr4Eg4K6O4K6p4K+N4K6x4K+BIOCuqOCvguCusuCvjeCuleCus+CviOCuleCvjSDgrpXgr4rgrqPgr43grp/gr4Eg4K6u4K+G4K6v4K+N4K6q4K+N4K6q4K6/4K6V4K+N4K6VIOCuteCvh+Cuo+CvjeCun+Cuv+Cur+CupOCvgSDgrofgrrLgr43grrLgr4guIOCuquCusuCvjeCusuCuleCvjeCuleCviOCupOCvjSDgrqTgr4LgrpXgr43grpXgrr/grprgr40g4K6a4K+G4K6y4K+N4K6q4K614K6p4K+I4K6v4K+B4K6u4K+NIOCuheCupOCuv+CusuCvjSDgrqrgrq/grqPgrr/grqrgr43grqrgrrXgrqngr4jgrq/gr4Hgrq7gr40g4K6V4K6j4K+N4K6fIOCuheCus+CuteCuv+CusuCvjSDgrqrgrq/grqngr4gg4K6F4K6x4K6/4K6v4K6y4K6+4K6u4K+NLvYH4K6F4K6x4K614K604K6/4K6v4K6/4K6y4K+NIOCuqOCun+CuquCvjeCuquCuteCusOCvjeCuleCus+CvjSDgrqrgrrLgr43grrLgrpXgr43grpXgrr/grrLgr40g4K6J4K6f4K+N4K6V4K6+4K6w4K+N4K6o4K+N4K6k4K+BIOCumuCvhuCusuCvjeCuquCuteCusOCvjeCuleCus+CviOCuquCvjSDgrqrgr4vgrrIg4K614K6+4K604K+N4K6V4K+N4K6V4K+I4K6v4K6/4K6y4K+NIOCuteCusOCvgeCuruCvjSDgrofgrqngr43grqog4K6k4K+B4K6p4K+N4K6q4K6Z4K+N4K6V4K6z4K+NIOCuh+CusOCuo+CvjeCun+CviOCur+CvgeCuruCvjSDgro7grrPgrr/grq/grrXgrr7grpXgrpXgr40g4K6V4K6w4K+B4K6k4K6/IOCuruCuleCuv+CutOCvjeCuteCvgeCun+CuqeCvjSDgrqrgrq/grqPgrqTgr43grqTgr4gg4K6u4K+H4K6x4K+N4K6V4K+K4K6z4K+N4K614K6+4K6w4K+N4K6V4K6z4K+NIOCupOCvgOCuryDgrrXgrrTgrr/grpXgr43grpXgr4HgrqTgr40g4K6k4K6Z4K+N4K6V4K6z4K+IIOCuhuCun+CvjeCuquCun+CvgeCupOCvjeCupOCuv+CuleCvjSDgrpXgr4rgrqPgr43grp/grrXgrrDgr43grpXgrrPgr4sg4K6q4K6y4K+N4K6y4K6V4K+N4K6V4K+I4K6k4K+NIOCupOCvguCuleCvjeCuleCuv+CumuCvjSDgrprgr4Hgrq7grqrgr43grqrgrrXgrrDgr43grpXgrrPgr4jgrqrgr40g4K6q4K+L4K6yIOCuh+CuqeCvjeCuquCupOCvjeCupOCuv+CusuCvgeCuruCvjSDgroXgrq7gr4jgrqTgrr8g4K6V4K+K4K6z4K+N4K6z4K6+4K6u4K6y4K+NLCDgrqTgr4Hgrqngr43grqrgrqTgr43grqTgr4jgrq/gr4Hgrq7gr40g4K6k4K6+4K6Z4K+N4K6V4K6/4K6V4K+NIOCuleCviuCus+CvjeCus+CvgeCuruCvjSDgrq7grqngrqrgr43grqrgrpXgr43grpXgr4HgrrXgrq7grr/grqngr43grrHgrr8g4K614K6+4K604K+N4K614K+I4K6v4K+HIOCuquCvhuCusOCvgeCuruCvjSDgrprgr4Hgrq7gr4jgrq/grr7grpXgrpXgr40g4K6V4K6w4K+B4K6k4K+B4K614K6+4K6w4K+N4K6V4K6z4K+NAjM3cE5lZWRzIG5vdCBpbiB3b3JkcyB0byBkd2VsbCBvbiB2aXJ0dWUncyBmcnVpdHM6IGNvbXBhcmU8YnIgLz5UaGUgbWFuIGluIGxpdHRlciBib3JuZSB3aXRoIHRoZW0gdGhhdCB0b2lsaW5nIGJlYXKCAVRoZSBmcnVpdCBvZiB2aXJ0dWUgbmVlZCBub3QgYmUgZGVzY3JpYmVkIGluIGJvb2tzOyBpdCBtYXkgYmUgaW5mZXJyZWQgZnJvbSBzZWVpbmcgdGhlIGJlYXJlciBvZiBhIHBhbGFucXVpbiBhbmQgdGhlIHJpZGVyIHRoZXJlaW5LQXJhdGh0aGFhcnUgSXRodXZlbmEgIFZlbnRhYSAgU2l2aWthaTxiciAvPlBvcnV0aHRoYWFub3R1ICBPb3JuZGhhYW4gIEl0YWkgZAIBDw8WAh8GBQp+L2t1cmFsLzM3ZGQCCA9kFgJmD2QWBGYPFQkCMzi2AeCuteCvgOCutOCvjeCuqOCuvuCus+CvjSDgrqrgrp/grr7groXgrq7gr4gg4K6o4K6p4K+N4K6x4K6+4K6x4K+N4K6x4K6/4K6p4K+NIOCuheCug+CupOCviuCusOCvgeCuteCuqeCvjTxiciAvPuCuteCuvuCutOCvjeCuqOCuvuCus+CvjSDgrrXgrrTgrr/grq/grp/gr4jgrpXgr43grpXgr4Hgrq7gr40g4K6V4K6y4K+N3wLgrpLgrrDgr4HgrrXgrqngr40g4K6F4K6x4K6u4K+NIOCumuCvhuCur+CvjeCuryDgrqTgrrXgrrHgrr/grq8g4K6o4K6+4K6z4K+NIOCuj+CuseCvjeCuquCun+CuvuCupOCuteCuvuCuseCvgSDgroXgrrHgrqTgr43grqTgr4gg4K6a4K+G4K6v4K+N4K614K6+4K6p4K6+4K6p4K6+4K6y4K+NIOCuheCupOCvgeCuteCvhyDgroXgrrXgrqngr40g4K6J4K6f4K6y4K+L4K6f4K+BIOCuteCuvuCutOCvgeCuruCvjSDgrqjgrr7grrPgr40g4K614K6w4K+B4K6u4K+NIOCuquCuv+CuseCuteCuvyDgrrXgrrTgrr/grq/gr4gg4K6F4K6f4K+I4K6V4K+N4K6V4K+B4K6u4K+NIOCuleCusuCvjeCusuCuvuCuleCvgeCuruCvjS7qAuCuheCuseCupOCvjeCupOCviCDgrprgr4bgrq/gr43grq/grr7grqTgr4Eg4K614K6/4K6f4K+N4K6fIOCuqOCuvuCus+CvjSDgrofgrrLgr43grrLgr4gg4K6O4K6p4K+N4K6x4K+BIOCumuCviuCusuCvjeCusuCvgeCuruCvjeCuquCun+CuvyDgrpLgrrDgr4HgrrXgrqngr40g4K6F4K6x4K6u4K+NIOCumuCvhuCur+CvjeCupOCuvuCusuCvjSwg4K6F4K6a4K+N4K6a4K+G4K6v4K6y4K+HLCDgroXgrrXgrqngr40g4K6k4K6/4K6w4K+B4K6u4K+N4K6q4K6q4K+NIOCuquCuv+CuseCuleCvjeCuleCvgeCuruCvjSDgrrXgrrTgrr/grq/gr4gg4K6F4K6f4K+I4K6V4K+N4K6V4K+B4K6u4K+NIOCuleCusuCvjSDgrobgrpXgr4Hgrq7gr40utwPgrqrgrq/grqngrrHgr43grrHgrqTgrr7grpUg4K6S4K6w4K+B4K6o4K6+4K6z4K+N4K6V4K+C4K6f4K6V4K+NIOCuleCutOCuv+CuqOCvjeCupOCvgSDgrqrgr4vgrpXgrr7grq7grrLgr40sIOCupOCviuCun+CusOCvjeCuqOCvjeCupOCvgSDgrqjgrrHgr43grprgr4bgrq/grrLgr43grpXgrrPgrr/grrLgr40g4K6I4K6f4K+B4K6q4K6f4K+B4K6q4K614K6w4K+B4K6V4K+N4K6V4K+BIOCuteCuvuCutOCvjeCuleCvjeCuleCviOCuquCvjSDgrqrgrr7grqTgr4jgrq/gr4jgrprgr40g4K6a4K+A4K6w4K6+4K6V4K+N4K6V4K6/IOCuheCuruCviOCupOCvjeCupOCvgeCupOCvjSDgrqTgrrDgr4Hgrq7gr40g4K6V4K6y4K+N4K6y4K6+4K6VIOCuheCuqOCvjeCupCDgrqjgrrHgr43grprgr4bgrq/grrLgr43grpXgrrPgr4cg4K614K6/4K6z4K6Z4K+N4K6V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kuCusOCvgeCuteCuseCvjeCuleCvgTxiciAvPuCuieCur+CuseCvjeCuquCuvuCusiDgrqTgr4vgrrDgr4Hgrq7gr40g4K6q4K604K6/hALgrpLgrrDgr4HgrrXgrqngr40g4K614K6+4K604K+N4K6o4K6+4K6z4K6/4K6y4K+NIOCuruCvgeCur+CuseCvjeCumuCuvyDgrq7gr4fgrrHgr43grpXgr4rgrqPgr43grp/gr4Eg4K6a4K+G4K6v4K+N4K6v4K6k4K+N4K6k4K6V4K+N4K6V4K6k4K+BIOCuheCuseCuruCvhy4g4K6a4K+G4K6v4K+N4K6v4K6+4K6u4K6y4K+NIOCuleCuvuCupOCvjeCupOCvgSDgrpXgr4rgrrPgr43grrPgrqTgr43grqTgrpXgr43grpXgrqTgr4Eg4K6q4K604K6/4K6v4K+HLqIB4K6S4K6w4K+B4K614K6p4K+NIOCumuCvhuCur+CvjeCur+CupOCvjSDgrqTgrpXgr43grpXgrqTgr4Eg4K6F4K6x4K6u4K+HOyDgrrXgrr/grp/gr43grp/gr4HgrrXgrr/grp/grqTgr40g4K6k4K6V4K+N4K6V4K614K+IIOCupOCvgOCuryDgrprgr4bgrq/grrLgr43grpXgrrPgr4cuswLgrqrgrrTgrr/grpXgr43grpXgrqTgr40g4K6k4K6V4K+N4K6V4K614K+I4K6V4K6z4K+I4K6a4K+NIOCumuCvhuCur+CvjeCur+CuvuCuruCusuCvjSDgrqrgrr7grrDgrr7grp/gr43grp/grqTgr43grqTgrpXgr43grpUg4K6F4K6x4K614K604K6/4K6a4K+NIOCumuCvhuCur+CusuCvjeCuleCus+Cuv+CusuCvjSDgrqjgrr7grp/gr43grp/grq7gr40g4K6V4K+K4K6z4K+N4K614K6k4K+HIOCukuCusOCvgeCuteCusOCvjeCuleCvjeCuleCvgeCuquCvjSDgrqrgr4HgrpXgrrTgr40g4K6a4K+H4K6w4K+N4K6V4K+N4K6V4K+B4K6u4K+NAjQwXidWaXJ0dWUnIHN1bXMgdGhlIHRoaW5ncyB0aGF0IHNob3VsZCBiZSBkb25lOzxiciAvPidWaWNlJyBzdW1zIHRoZSB0aGluZ3MgdGhhdCBtYW4gc2hvdWxkIHNodW5OVGhhdCBpcyB2aXJ0dWUgd2hpY2ggZWFjaCBvdWdodCB0byBkbywgYW5kIHRoYXQgaXMgdmljZSB3aGljaCBlYWNoIHNob3VsZCBzaHVuQVNleWFycGFhbGEgVGhvcnVtICBBcmFuZSAgT3J1dmFya3U8YnIgLz5VeWFycGFhbGEgIFRob3J1bSAgUGF6aGkgZAIBDw8WAh8GBQp+L2t1cmFsLzQwZGQCCw8PFgIeB1Zpc2libGVoZGQCDA8PFgIfCWhkZBgBBTtjdGwwMCRjdGwwMCRjcGhfYm9keSRjcGhfaW5uZXJib2R5JGdyZF90aGlydWt1cmFsc2J5Y2hhcHRlcg88KwAMAQgCAWRf67NWxfuVajHCZ5iEwYUjHlv1Dv4l5VawsBK2jlO2EQ==" />
+
+
+
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="3778227F" />
+    <div id="ctl00_ctl00_div_main">
+        
+        <!-- Header -->
+        
+                    
+<table class = "secondaryTabs" cellpadding = "0" cellspacing = "0">
+    <tr>
+        <td>         
+            <a id="ctl00_ctl00_cph_secondarytabs_hlnk_thirukurals" class="active" href="../thirukurals">Thirukurals</a> | 
+            
+            <a id="ctl00_ctl00_cph_secondarytabs_hlnk_chapters" href="../thirukuralchapters">Chapters</a> | 
+            <a id="ctl00_ctl00_cph_secondarytabs_hlnk_sections" href="../thirukuralsections">Sections</a> | 
+            <a id="ctl00_ctl00_cph_secondarytabs_hlnk_chaptergroups" href="../thirukuralchaptergroups">Chapter Groups</a> |  <a id="ctl00_ctl00_cph_secondarytabs_hlnk_chaptergroups" href="http://sivasuthan.com">About</a><br> 
+            
+         
+            
+        </td>
+    </tr>
+</table>
+
+                    
+                    <!-- Body  -->
+                    
+    
+    <table cellpadding="0" cellspacing="0" class="parentTable contentBody">
+        <tr>
+            <td>
+                <div class="pageHeader">
+                    அதிகாரங்கள்/Chapters/Adhigarangal</div>
+                <br />
+                <div>
+                    <table id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters" cellspacing="0" bordercolor="White" border="0">
+	<tr>
+		<td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl00_HyperLink1" href="1">1</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl01_HyperLink1" href="2">2</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl02_HyperLink1" href="3">3</a>
+                        </td><td class="thirukuralChapterActive" align="center" bgcolor="DarkCyan" width="45"><font color="White"><b>
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl03_HyperLink1" href="4">4</a>
+                        </b></font></td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl04_HyperLink1" href="5">5</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl05_HyperLink1" href="6">6</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl06_HyperLink1" href="7">7</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl07_HyperLink1" href="8">8</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl08_HyperLink1" href="9">9</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl09_HyperLink1" href="10">10</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl10_HyperLink1" href="11">11</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl11_HyperLink1" href="12">12</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl12_HyperLink1" href="13">13</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl13_HyperLink1" href="14">14</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl14_HyperLink1" href="15">15</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl15_HyperLink1" href="16">16</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl16_HyperLink1" href="17">17</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl17_HyperLink1" href="18">18</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl18_HyperLink1" href="19">19</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl19_HyperLink1" href="20">20</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl20_HyperLink1" href="21">21</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl21_HyperLink1" href="22">22</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl22_HyperLink1" href="23">23</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl23_HyperLink1" href="24">24</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl24_HyperLink1" href="25">25</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl25_HyperLink1" href="26">26</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl26_HyperLink1" href="27">27</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl27_HyperLink1" href="28">28</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl28_HyperLink1" href="29">29</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl29_HyperLink1" href="30">30</a>
+                        </td>
+	</tr><tr>
+		<td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl30_HyperLink1" href="31">31</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl31_HyperLink1" href="32">32</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl32_HyperLink1" href="33">33</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl33_HyperLink1" href="34">34</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl34_HyperLink1" href="35">35</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl35_HyperLink1" href="36">36</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl36_HyperLink1" href="37">37</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl37_HyperLink1" href="38">38</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl38_HyperLink1" href="39">39</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl39_HyperLink1" href="40">40</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl40_HyperLink1" href="41">41</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl41_HyperLink1" href="42">42</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl42_HyperLink1" href="43">43</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl43_HyperLink1" href="44">44</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl44_HyperLink1" href="45">45</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl45_HyperLink1" href="46">46</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl46_HyperLink1" href="47">47</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl47_HyperLink1" href="48">48</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl48_HyperLink1" href="49">49</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl49_HyperLink1" href="50">50</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl50_HyperLink1" href="51">51</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl51_HyperLink1" href="52">52</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl52_HyperLink1" href="53">53</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl53_HyperLink1" href="54">54</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl54_HyperLink1" href="55">55</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl55_HyperLink1" href="56">56</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl56_HyperLink1" href="57">57</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl57_HyperLink1" href="58">58</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl58_HyperLink1" href="59">59</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl59_HyperLink1" href="60">60</a>
+                        </td>
+	</tr><tr>
+		<td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl60_HyperLink1" href="61">61</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl61_HyperLink1" href="62">62</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl62_HyperLink1" href="63">63</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl63_HyperLink1" href="64">64</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl64_HyperLink1" href="65">65</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl65_HyperLink1" href="66">66</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl66_HyperLink1" href="67">67</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl67_HyperLink1" href="68">68</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl68_HyperLink1" href="69">69</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl69_HyperLink1" href="70">70</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl70_HyperLink1" href="71">71</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl71_HyperLink1" href="72">72</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl72_HyperLink1" href="73">73</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl73_HyperLink1" href="74">74</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl74_HyperLink1" href="75">75</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl75_HyperLink1" href="76">76</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl76_HyperLink1" href="77">77</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl77_HyperLink1" href="78">78</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl78_HyperLink1" href="79">79</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl79_HyperLink1" href="80">80</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl80_HyperLink1" href="81">81</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl81_HyperLink1" href="82">82</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl82_HyperLink1" href="83">83</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl83_HyperLink1" href="84">84</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl84_HyperLink1" href="85">85</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl85_HyperLink1" href="86">86</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl86_HyperLink1" href="87">87</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl87_HyperLink1" href="88">88</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl88_HyperLink1" href="89">89</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl89_HyperLink1" href="90">90</a>
+                        </td>
+	</tr><tr>
+		<td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl90_HyperLink1" href="91">91</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl91_HyperLink1" href="92">92</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl92_HyperLink1" href="93">93</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl93_HyperLink1" href="94">94</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl94_HyperLink1" href="95">95</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl95_HyperLink1" href="96">96</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl96_HyperLink1" href="97">97</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl97_HyperLink1" href="98">98</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl98_HyperLink1" href="99">99</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl99_HyperLink1" href="100">100</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl100_HyperLink1" href="101">101</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl101_HyperLink1" href="102">102</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl102_HyperLink1" href="103">103</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl103_HyperLink1" href="104">104</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl104_HyperLink1" href="105">105</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl105_HyperLink1" href="106">106</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl106_HyperLink1" href="107">107</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl107_HyperLink1" href="108">108</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl108_HyperLink1" href="109">109</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl109_HyperLink1" href="110">110</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl110_HyperLink1" href="111">111</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl111_HyperLink1" href="112">112</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl112_HyperLink1" href="113">113</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl113_HyperLink1" href="114">114</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl114_HyperLink1" href="115">115</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl115_HyperLink1" href="116">116</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl116_HyperLink1" href="117">117</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl117_HyperLink1" href="118">118</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl118_HyperLink1" href="119">119</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl119_HyperLink1" href="120">120</a>
+                        </td>
+	</tr><tr>
+		<td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl120_HyperLink1" href="121">121</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl121_HyperLink1" href="122">122</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl122_HyperLink1" href="123">123</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl123_HyperLink1" href="124">124</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl124_HyperLink1" href="125">125</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl125_HyperLink1" href="126">126</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl126_HyperLink1" href="127">127</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl127_HyperLink1" href="128">128</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl128_HyperLink1" href="129">129</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl129_HyperLink1" href="130">130</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl130_HyperLink1" href="131">131</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl131_HyperLink1" href="132">132</a>
+                        </td><td class="thirukuralChapterInactive" align="center" width="45">
+                            <a id="ctl00_ctl00_cph_body_cph_innerbody_dlist_chapters_ctl132_HyperLink1" href="133">133</a>
+                        </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr>
+</table>
+                    <br />
+                    <br />
+                    <div class="thirukuralHeadingContainer">
+                        <b>அதிகாரம்/Chapter/Adhigaram: </b>
+                        <span id="ctl00_ctl00_cph_body_cph_innerbody_lbl_chapter">அறன் வலியுறுத்தல்/Assertion of the Strength of Virtue/Aran Valiyuruththal  4</span>
+                        <br />
+                        <b>இயல்/ChapterGroup/Iyal: </b>
+                        <span id="ctl00_ctl00_cph_body_cph_innerbody_lbl_chaptergroup">பாயிரவியல்/Prologue/Paayiraviyal 1</span>
+                        <br />
+                        <b>பால்/Section/Paal: </b>
+                        <span id="ctl00_ctl00_cph_body_cph_innerbody_lbl_section">அறத்துப்பால்/Virtue/Araththuppaal 1</span>                    
+             
+                        
+                    </div>
+                    <div>
+	<table cellspacing="0" border="0" id="ctl00_ctl00_cph_body_cph_innerbody_grd_thirukuralsbychapter" width="100%" style="margin-left: 0px">
+		<tr>
+			<th scope="col">&nbsp;</th>
+		</tr><tr>
+			<td>
+                                    <div class="guestbookStyle">
+                                        <table width="100%">
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">குறள்
+                                                        31</span><br />
+                                                 சிறப்பீனும் செல்வமும் ஈனும் அறத்தினூஉங்கு<br />ஆக்கம் எவனோ உயிர்க்கு
+                                                </td>
+                                            </tr>
+                                             <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">மு.வ உரை: </span>
+                                                <br />
+                                                அறம் சிறப்பையும் அளிக்கும்: செல்வத்தையும் அளிக்கும்: ஆகையால் உயிர்க்கு அத்தகைய அறத்தை விட நன்மையானது வேறு யாது?
+                                            </td>
+                                        </tr>
+                                          <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">சாலமன் பாப்பையா உரை: </span>
+                                                <br />
+                                                அறம், நான்கு பேர் முன் நமக்கு மேன்மையைத் தரும்; நல்ல செல்வத்தையும் கொடுக்கும். இத்தகைய அறத்தைக் காட்டிலும் மேன்மையானது நமக்கு உண்டா?
+                                            </td>
+                                        </tr>
+                                          <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">கலைஞர் உரை: </span>
+                                                <br />
+                                                சிறப்பையும், செழிப்பையும் தரக்கூடிய அறவழி ஒன்றைத்தவிர ஆக்கமளிக்கக் கூடிய வழி வேறென்ன இருக்கிறது?
+                                            </td>
+                                        </tr>
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">Couplet
+                                                        31
+                                                    </span>
+                                                    <br />
+                                                    It yields distinction, yields prosperity; what gain<br />Greater than virtue can a living man obtain
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">Explanation</span><br />
+                                                    Virtue will confer heaven and wealth; what greater source of happiness can man possess ?
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <span class="thirukuralHeading1">Transliteration</span><br />
+                                                    Sirappu Eenum  Selvamum  Eenum  Araththinooungu<br />Aakkam  Evano  Uyirkku 
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td><br />
+                                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_thirukuralsbychapter_ctl02_hlnk_###" href="../kural/31">###</a>
+                                                 
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <br />
+                                </td>
+		</tr><tr>
+			<td>
+                                    <div class="guestbookStyle">
+                                        <table width="100%">
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">குறள்
+                                                        32</span><br />
+                                                 அறத்தினூஉங் காக்கமும் இல்லை அதனை<br />மறத்தலின் ஊங்கில்லை கேடு
+                                                </td>
+                                            </tr>
+                                             <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">மு.வ உரை: </span>
+                                                <br />
+                                                ஒரு வருடைய வாழ்கைக்கு அறத்தை விட நன்மையானதும் இல்லை: அறத்தை போற்றாமல் மறப்பதை விடக்கொடியதும் இல்லை.
+                                            </td>
+                                        </tr>
+                                          <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">சாலமன் பாப்பையா உரை: </span>
+                                                <br />
+                                                அறம் செய்வதை விட நன்மையும் இல்லை. அதைச் செய்ய மறப்பதைவிட கெடுதியும் இல்லை
+                                            </td>
+                                        </tr>
+                                          <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">கலைஞர் உரை: </span>
+                                                <br />
+                                                நன்மைகளின் விளைநிலமாக இருக்கும் அறத்தைப் போல் ஒருவருடைய வாழ்க்கைக்கு ஆக்கம் தரக்கூடியது எதுவுமில்லை; அந்த அறத்தை மறப்பதை விடத் தீமையானதும் வேறில்லை
+                                            </td>
+                                        </tr>
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">Couplet
+                                                        32
+                                                    </span>
+                                                    <br />
+                                                    No greater gain than virtue aught can cause;<br />No greater loss than life oblivious of her laws
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">Explanation</span><br />
+                                                    There can be no greater source of good than (the practice of) virtue; there can be no greater source of evil than the forgetfulness of it
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <span class="thirukuralHeading1">Transliteration</span><br />
+                                                    Araththinooungu Aakkamum  Illai  Adhanai<br />Maraththalin  Oongillai  Ketu 
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td><br />
+                                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_thirukuralsbychapter_ctl03_hlnk_###" href="../kural/32">###</a>
+                                                 
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <br />
+                                </td>
+		</tr><tr>
+			<td>
+                                    <div class="guestbookStyle">
+                                        <table width="100%">
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">குறள்
+                                                        33</span><br />
+                                                 ஒல்லும் வகையான அறவினை ஓவாதே<br />செல்லும்வாய் எல்லாஞ் செயல்
+                                                </td>
+                                            </tr>
+                                             <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">மு.வ உரை: </span>
+                                                <br />
+                                                செய்யக்கூடிய வகையால், எக்காரணத்தாலும் விடாமல் செல்லுமிடமெல்லாம் அறச்செயலைப் போற்றிச் செய்ய வேண்டும்.
+                                            </td>
+                                        </tr>
+                                          <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">சாலமன் பாப்பையா உரை: </span>
+                                                <br />
+                                                இடைவிடாமல் இயன்ற மட்டும் எல்லா இடங்களிலும் அறச்செயலைச் செய்க.
+                                            </td>
+                                        </tr>
+                                          <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">கலைஞர் உரை: </span>
+                                                <br />
+                                                செய்யக்கூடிய செயல்கள் எவை ஆயினும், அவை எல்லா இடங்களிலும் தொய்வில்லாத அறவழியிலேயே செய்யப்பட வேண்டும்
+                                            </td>
+                                        </tr>
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">Couplet
+                                                        33
+                                                    </span>
+                                                    <br />
+                                                    To finish virtue's work with ceaseless effort strive,<br />What way thou may'st, where'er thou see'st the work may thrive
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">Explanation</span><br />
+                                                    As much as possible, in every way, incessantly practise virtue
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <span class="thirukuralHeading1">Transliteration</span><br />
+                                                    Ollum Vakaiyaan  Aravinai  Ovaadhe<br />Sellumvaai  Ellaanj  Cheyal 
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td><br />
+                                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_thirukuralsbychapter_ctl04_hlnk_###" href="../kural/33">###</a>
+                                                 
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <br />
+                                </td>
+		</tr><tr>
+			<td>
+                                    <div class="guestbookStyle">
+                                        <table width="100%">
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">குறள்
+                                                        34</span><br />
+                                                 மனத்துக்கண் மாசிலன் ஆதல் அனைத்தறன்<br />ஆகுல நீர பிற
+                                                </td>
+                                            </tr>
+                                             <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">மு.வ உரை: </span>
+                                                <br />
+                                                ஒருவன் தன்மனதில் குற்றம் இல்லாதவானாக இருக்க வேண்டும். அறம் அவ்வளவே: மனத்தூய்மை இல்லாத மற்றவை ஆரவாரத் தன்மை உடையவை.
+                                            </td>
+                                        </tr>
+                                          <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">சாலமன் பாப்பையா உரை: </span>
+                                                <br />
+                                                மனத்து அளவில் குற்றம் இல்லாதவனாய் ஆகுக; அறம் என்பது அவ்வளவே; பிற வார்த்தை நடிப்பும், வாழ்க்கை வேடங்களுக்கும் மற்றவர் அறியச் செய்யப்படும் ஆடம்பரங்களே.
+                                            </td>
+                                        </tr>
+                                          <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">கலைஞர் உரை: </span>
+                                                <br />
+                                                மனம் தூய்மையாக இருப்பதே அறம்; மற்றவை ஆரவாரத்தைத் தவிர வேறொன்றுமில்லை
+                                            </td>
+                                        </tr>
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">Couplet
+                                                        34
+                                                    </span>
+                                                    <br />
+                                                    Spotless be thou in mind! This only merits virtue's name;<br />All else, mere pomp of idle sound, no real worth can claim
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">Explanation</span><br />
+                                                    Let him who does virtuous deeds be of spotless mind; to that extent is virtue; all else is vain show
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <span class="thirukuralHeading1">Transliteration</span><br />
+                                                    Manaththukkan Maasilan  Aadhal  Anaiththu  Aran<br />Aakula  Neera  Pira 
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td><br />
+                                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_thirukuralsbychapter_ctl05_hlnk_###" href="../kural/34">###</a>
+                                                 
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <br />
+                                </td>
+		</tr><tr>
+			<td>
+                                    <div class="guestbookStyle">
+                                        <table width="100%">
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">குறள்
+                                                        35</span><br />
+                                                 அழுக்கா றவாவெகுளி இன்னாச்சொல் நான்கும்<br />இழுக்கா இயன்ற தறம்
+                                                </td>
+                                            </tr>
+                                             <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">மு.வ உரை: </span>
+                                                <br />
+                                                 பொறாமை, ஆசை, சினம், கடுஞ்சொல் ஆகிய இந்த நான்கு குற்றங்களுக்கும் இடங்கொடுக்காமல் அவற்றைக் கடித்து ஒழுகுவதே அறமாகும்.
+                                            </td>
+                                        </tr>
+                                          <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">சாலமன் பாப்பையா உரை: </span>
+                                                <br />
+                                                பிறர் மேன்மை கண்டு பொறாமை, புலன்கள் போகும் வழிச் செல்லும் ஆசை, இவை தடைபடும் போது வரும் கோபம், கோபத்தில் பிறக்கும் தீய சொல் எனும் இந்நான்கையும் விலக்கித் தொடர்ந்து செய்யப்படுவது அறம்.
+                                            </td>
+                                        </tr>
+                                          <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">கலைஞர் உரை: </span>
+                                                <br />
+                                                பொறாமை, பேராசை, பொங்கும் கோபம், புண்படுத்தும் சொல் ஆகிய இந்த நான்கும் அறவழிக்குப் பொருந்தாதவைகளாகும்
+                                            </td>
+                                        </tr>
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">Couplet
+                                                        35
+                                                    </span>
+                                                    <br />
+                                                    'Tis virtue when, his footsteps sliding not through envy, wrath,<br />Lust, evil speech-these four, man onwards moves in ordered path
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">Explanation</span><br />
+                                                    That conduct is virtue which is free from these four things, viz, malice, desire, anger and bitter speech
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <span class="thirukuralHeading1">Transliteration</span><br />
+                                                    Azhukkaaru Avaavekuli  Innaachchol  Naankum<br />Izhukkaa  Iyandradhu  Aram 
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td><br />
+                                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_thirukuralsbychapter_ctl06_hlnk_###" href="../kural/35">###</a>
+                                                 
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <br />
+                                </td>
+		</tr><tr>
+			<td>
+                                    <div class="guestbookStyle">
+                                        <table width="100%">
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">குறள்
+                                                        36</span><br />
+                                                 அன்றறிவாம் என்னா தறஞ்செய்க மற்றது<br />பொன்றுங்கால் பொன்றாத் துணை
+                                                </td>
+                                            </tr>
+                                             <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">மு.வ உரை: </span>
+                                                <br />
+                                                இளைஞராக உள்ளவர், பிற்காலத்தில் பார்த்து கொள்ளலாம் என்று எண்ணாமல் அறம் செய்ய வேண்டும். அதுவே உடல் அழியும் காலத்தில் அழியா துணையாகும்.
+                                            </td>
+                                        </tr>
+                                          <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">சாலமன் பாப்பையா உரை: </span>
+                                                <br />
+                                                முதுமையில் செய்யலாம் என எண்ணாமல் இப்போதே அறத்தைச் செய்க;  அந்த அறம் நாம் அழியும் போது தான் அழியாமல் நமக்கு துணை ஆகும்.
+                                            </td>
+                                        </tr>
+                                          <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">கலைஞர் உரை: </span>
+                                                <br />
+                                                பிறகு பார்த்துக்கொள்ளலாம் என்று நாள் கடத்தாமல் அறவழியை மேற்கொண்டால் அது ஒருவர் இறந்தபின் கூட அழியாப் புகழாய் நிலைத்துத் துணை நிற்கும்
+                                            </td>
+                                        </tr>
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">Couplet
+                                                        36
+                                                    </span>
+                                                    <br />
+                                                    Do deeds of virtue now Say not, 'To-morrow we'll be wise';<br />Thus, when thou diest, shalt thou find a help that never dies
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">Explanation</span><br />
+                                                    Defer not virtue to another day; receive her now; and at the dying hour she will be your undying friend
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <span class="thirukuralHeading1">Transliteration</span><br />
+                                                    Andrarivaam Ennaadhu  Aranjeyka  Matradhu<br />Pondrungaal  Pondraath  Thunai 
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td><br />
+                                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_thirukuralsbychapter_ctl07_hlnk_###" href="../kural/36">###</a>
+                                                 
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <br />
+                                </td>
+		</tr><tr>
+			<td>
+                                    <div class="guestbookStyle">
+                                        <table width="100%">
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">குறள்
+                                                        37</span><br />
+                                                 அறத்தா றிதுவென வேண்டா சிவிகை<br />பொறுத்தானோ டூர்ந்தான் இடை
+                                                </td>
+                                            </tr>
+                                             <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">மு.வ உரை: </span>
+                                                <br />
+                                                பல்லக்கை சுமப்பவனும் அதன்மேலிருந்து ஊர்ந்து செல்லுவோனுமாகிய அவர்களிடையே அறத்தின் பயன் இஃது என்று கூறவேண்டா.
+                                            </td>
+                                        </tr>
+                                          <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">சாலமன் பாப்பையா உரை: </span>
+                                                <br />
+                                                அறத்தைச் செய்வதால் வரும் பயன் இது என்று நூல்களைக் கொண்டு மெய்ப்பிக்க வேண்டியது இல்லை. பல்லக்கைத் தூக்கிச் செல்பவனையும் அதில் பயணிப்பவனையும் கண்ட அளவில் பயனை அறியலாம்.
+                                            </td>
+                                        </tr>
+                                          <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">கலைஞர் உரை: </span>
+                                                <br />
+                                                அறவழியில் நடப்பவர்கள் பல்லக்கில் உட்கார்ந்து செல்பவர்களைப் போல வாழ்க்கையில் வரும் இன்ப துன்பங்கள் இரண்டையும் எளியவாகக் கருதி மகிழ்வுடன் பயணத்தை மேற்கொள்வார்கள் தீய வழிக்குத் தங்களை ஆட்படுத்திக் கொண்டவர்களோ பல்லக்கைத் தூக்கிச் சுமப்பவர்களைப் போல இன்பத்திலும் அமைதி கொள்ளாமல், துன்பத்தையும் தாங்கிக் கொள்ளும் மனப்பக்குவமின்றி வாழ்வையே பெரும் சுமையாகக் கருதுவார்கள்
+                                            </td>
+                                        </tr>
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">Couplet
+                                                        37
+                                                    </span>
+                                                    <br />
+                                                    Needs not in words to dwell on virtue's fruits: compare<br />The man in litter borne with them that toiling bear
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">Explanation</span><br />
+                                                    The fruit of virtue need not be described in books; it may be inferred from seeing the bearer of a palanquin and the rider therein
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <span class="thirukuralHeading1">Transliteration</span><br />
+                                                    Araththaaru Ithuvena  Ventaa  Sivikai<br />Poruththaanotu  Oorndhaan  Itai 
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td><br />
+                                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_thirukuralsbychapter_ctl08_hlnk_###" href="../kural/37">###</a>
+                                                 
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <br />
+                                </td>
+		</tr><tr>
+			<td>
+                                    <div class="guestbookStyle">
+                                        <table width="100%">
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">குறள்
+                                                        38</span><br />
+                                                 வீழ்நாள் படாஅமை நன்றாற்றின் அஃதொருவன்<br />வாழ்நாள் வழியடைக்கும் கல்
+                                                </td>
+                                            </tr>
+                                             <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">மு.வ உரை: </span>
+                                                <br />
+                                                ஒருவன் அறம் செய்ய தவறிய நாள் ஏற்படாதவாறு அறத்தை செய்வானானால் அதுவே அவன் உடலோடு வாழும் நாள் வரும் பிறவி வழியை அடைக்கும் கல்லாகும்.
+                                            </td>
+                                        </tr>
+                                          <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">சாலமன் பாப்பையா உரை: </span>
+                                                <br />
+                                                அறத்தை செய்யாது விட்ட நாள் இல்லை என்று சொல்லும்படி ஒருவன் அறம் செய்தால், அச்செயலே, அவன் திரும்பப் பிறக்கும் வழியை அடைக்கும் கல் ஆகும்.
+                                            </td>
+                                        </tr>
+                                          <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">கலைஞர் உரை: </span>
+                                                <br />
+                                                பயனற்றதாக ஒருநாள்கூடக் கழிந்து போகாமல், தொடர்ந்து நற்செயல்களில் ஈடுபடுபவருக்கு வாழ்க்கைப் பாதையைச் சீராக்கி அமைத்துத் தரும் கல்லாக அந்த நற்செயல்களே விளங்கும்
+                                            </td>
+                                        </tr>
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">Couplet
+                                                        38
+                                                    </span>
+                                                    <br />
+                                                    If no day passing idly, good to do each day you toil,<br />A stone it will be to block the way of future days of moil
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">Explanation</span><br />
+                                                    If one allows no day to pass without some good being done, his conduct will be a stone to block up the passage to other births
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <span class="thirukuralHeading1">Transliteration</span><br />
+                                                    Veezhnaal Pataaamai  Nandraatrin  Aqdhoruvan<br />Vaazhnaal  Vazhiyataikkum  Kal 
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td><br />
+                                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_thirukuralsbychapter_ctl09_hlnk_###" href="../kural/38">###</a>
+                                                 
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <br />
+                                </td>
+		</tr><tr>
+			<td>
+                                    <div class="guestbookStyle">
+                                        <table width="100%">
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">குறள்
+                                                        39</span><br />
+                                                 அறத்தான் வருவதே இன்பமற் றெல்லாம்<br />புறத்த புகழும் இல
+                                                </td>
+                                            </tr>
+                                             <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">மு.வ உரை: </span>
+                                                <br />
+                                                அறநெறியில் வாழ்வதன் பயனாக வருவதே இன்பமாகும். அறத்தோடு பொருந்தாமல் வருவன எல்லாம் இன்பம் இல்லாதவை: புகழும் இல்லாதவை.
+                                            </td>
+                                        </tr>
+                                          <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">சாலமன் பாப்பையா உரை: </span>
+                                                <br />
+                                                அறத்துடன் வருவதே இன்பம்; பிற வழிகளில் வருவன துன்பமே; புகழும் ஆகா
+                                            </td>
+                                        </tr>
+                                          <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">கலைஞர் உரை: </span>
+                                                <br />
+                                                தூய்மையான நெஞ்சுடன் நடத்தும் அறவழி வாழ்க்கையில் வருகின்ற புகழால் ஏற்படுவதே இன்பமாகும் அதற்கு மாறான வழியில் வருவது புகழும் ஆகாது; இன்பமும் ஆகாது
+                                            </td>
+                                        </tr>
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">Couplet
+                                                        39
+                                                    </span>
+                                                    <br />
+                                                    What from virtue floweth, yieldeth dear delight;<br />All else extern, is void of glory's light
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">Explanation</span><br />
+                                                    Only that pleasure which flows from domestic virtue is pleasure; all else is not pleasure, and it is without praise
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <span class="thirukuralHeading1">Transliteration</span><br />
+                                                    Araththaan Varuvadhe  Inpam  Mar  Rellaam<br />Puraththa  Pukazhum  Ila 
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td><br />
+                                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_thirukuralsbychapter_ctl10_hlnk_###" href="../kural/39">###</a>
+                                                 
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <br />
+                                </td>
+		</tr><tr>
+			<td>
+                                    <div class="guestbookStyle">
+                                        <table width="100%">
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">குறள்
+                                                        40</span><br />
+                                                 செயற்பால தோரும் அறனே ஒருவற்கு<br />உயற்பால தோரும் பழி
+                                                </td>
+                                            </tr>
+                                             <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">மு.வ உரை: </span>
+                                                <br />
+                                                ஒருவன் வாழ்நாளில் முயற்சி மேற்கொண்டு செய்யத்தக்கது அறமே. செய்யாமல் காத்து கொள்ளத்தக்கது பழியே.
+                                            </td>
+                                        </tr>
+                                          <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">சாலமன் பாப்பையா உரை: </span>
+                                                <br />
+                                                ஒருவன் செய்யத் தக்கது அறமே; விட்டுவிடத் தக்கவை தீய செயல்களே.
+                                            </td>
+                                        </tr>
+                                          <tr>
+                                            <td style="padding-top: 7px; padding-bottom: 7px">
+                                                <span class="thirukuralHeading1">கலைஞர் உரை: </span>
+                                                <br />
+                                                பழிக்கத் தக்கவைகளைச் செய்யாமல் பாராட்டத்தக்க அறவழிச் செயல்களில் நாட்டம் கொள்வதே ஒருவர்க்குப் புகழ் சேர்க்கும்
+                                            </td>
+                                        </tr>
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">Couplet
+                                                        40
+                                                    </span>
+                                                    <br />
+                                                    'Virtue' sums the things that should be done;<br />'Vice' sums the things that man should shun
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="padding-top: 7px; padding-bottom: 7px">
+                                                    <span class="thirukuralHeading1">Explanation</span><br />
+                                                    That is virtue which each ought to do, and that is vice which each should shun
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <span class="thirukuralHeading1">Transliteration</span><br />
+                                                    Seyarpaala Thorum  Arane  Oruvarku<br />Uyarpaala  Thorum  Pazhi 
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td><br />
+                                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_thirukuralsbychapter_ctl11_hlnk_###" href="../kural/40">###</a>
+                                                 
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <br />
+                                </td>
+		</tr>
+	</table>
+</div>
+                </div>
+            </td>
+        </tr>
+    </table>
+
+
+                </td>
+            </tr>
+        </table>
+        <!-- Footer -->
+        <br><br>This backup is hosted by Sivasuthan Dhayalan
+    </div>
+    </form>
+  
+</body>
+</html>

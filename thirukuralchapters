@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"><meta name="description" content="thirukural in tamil, english and transliteration" /><meta id="ctl00_ctl00_ctrl_keywords" name="keywords" content="thirukural, thirukural tamil, thirukural english translation, thirukural transliteration, thirukural search, thirukkural, kural, திருக்குறள்" /><title>
+	Thirukural in Tamil, English and Transliteration
+</title>
+
+    
+<body class="body">
+    <form name="aspnetForm" method="post" action="thirukuralchapters" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="785A4C71" />
+    <div id="ctl00_ctl00_div_main">
+        
+        <!-- Header -->
+        
+                    <!-- Secondary Tabs -->
+                    
+<table class = "secondaryTabs" cellpadding = "0" cellspacing = "0">
+    <tr>
+        <td>         
+            <a id="ctl00_ctl00_cph_secondarytabs_hlnk_thirukurals" href="thirukurals">Thirukurals</a> | 
+            
+            <a id="ctl00_ctl00_cph_secondarytabs_hlnk_chapters" class="active" href="thirukuralchapters">Chapters</a> | 
+            <a id="ctl00_ctl00_cph_secondarytabs_hlnk_sections" href="thirukuralsections">Sections</a> | 
+            <a id="ctl00_ctl00_cph_secondarytabs_hlnk_chaptergroups" href="thirukuralchaptergroups">Chapter Groups</a> | 
+             
+            <a id="ctl00_ctl00_cph_secondarytabs_hlnk_about" href="http://sivasuthan.com">About </a>
+        </td>
+    </tr>
+</table>
+
+                    
+                    <!-- Body  -->
+                    
+    
+
+    <table cellpadding="0" cellspacing="0" class="parentTable contentBody">
+        <tr>
+            <td>
+                <div class="pageHeader">
+                    அதிகாரங்கள்/Chapters/Adhigarangal</div>
+            <br />
+                   
+                        
+             <div>
+	<table cellspacing="0" cellpadding="3" rules="all" bordercolor="#000666" border="1" id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters">
+		<tr align="left" bgcolor="DarkCyan">
+			<th align="left" scope="col"><font color="White">#</font></th><th align="left" scope="col"><font color="White">Tamil</font></th><th align="left" scope="col"><font color="White">English</font></th><th align="left" scope="col"><font color="White">Transliteration</font></th><th scope="col"><font color="White">Kurals</font></th>
+		</tr><tr>
+			<td>1</td><td>கடவுள் வாழ்த்து</td><td>The Praise of God</td><td>Katavul Vaazhththu </td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl02_HyperLink1" href="thirukurals/1">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">2</font></td><td><font color="Black">வான்சிறப்பு</font></td><td><font color="Black">The Blessing of Rain</font></td><td><font color="Black">Vaansirappu</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl03_HyperLink1" href="thirukurals/2">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>3</td><td>நீத்தார் பெருமை</td><td>The Greatness of Ascetics</td><td>Neeththaar Perumai </td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl04_HyperLink1" href="thirukurals/3">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">4</font></td><td><font color="Black">அறன் வலியுறுத்தல்</font></td><td><font color="Black">Assertion of the Strength of Virtue</font></td><td><font color="Black">Aran Valiyuruththal </font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl05_HyperLink1" href="thirukurals/4">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>5</td><td>இல்வாழ்க்கை</td><td>Domestic Life</td><td>Ilvaazhkkai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl06_HyperLink1" href="thirukurals/5">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">6</font></td><td><font color="Black">வாழ்க்கைத் துணைநலம்</font></td><td><font color="Black">The Worth of a Wife</font></td><td><font color="Black">Vaazhkkaith Thunainalam </font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl07_HyperLink1" href="thirukurals/6">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>7</td><td>மக்கட்பேறு</td><td>The Wealth of Children</td><td>Pudhalvaraip Perudhal </td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl08_HyperLink1" href="thirukurals/7">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">8</font></td><td><font color="Black">அன்புடைமை</font></td><td><font color="Black">The Possession of Love</font></td><td><font color="Black">Anputaimai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl09_HyperLink1" href="thirukurals/8">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>9</td><td>விருந்தோம்பல்</td><td>Hospitality</td><td>Virundhompal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl10_HyperLink1" href="thirukurals/9">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">10</font></td><td><font color="Black">இனியவை கூறல்</font></td><td><font color="Black">The Utterance of Pleasant Words</font></td><td><font color="Black">Iniyavaikooral</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl11_HyperLink1" href="thirukurals/10">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>11</td><td>செய்ந்நன்றியறிதல்</td><td>Gratitude</td><td>Seynnandri Aridhal </td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl12_HyperLink1" href="thirukurals/11">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">12</font></td><td><font color="Black">நடுவு நிலைமை</font></td><td><font color="Black">Impartiality</font></td><td><font color="Black">Natuvu Nilaimai </font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl13_HyperLink1" href="thirukurals/12">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>13</td><td>அடக்கம் உடைமை</td><td>The Possession of Self-restraint</td><td>Atakkamutaimai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl14_HyperLink1" href="thirukurals/13">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">14</font></td><td><font color="Black">ஒழுக்கம் உடைமை</font></td><td><font color="Black">The Possession of Decorum</font></td><td><font color="Black">Ozhukkamutaimai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl15_HyperLink1" href="thirukurals/14">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>15</td><td>பிறனில் விழையாமை</td><td>Not coveting another&#39;s Wife</td><td>Piranil Vizhaiyaamai </td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl16_HyperLink1" href="thirukurals/15">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">16</font></td><td><font color="Black">பொறையுடைமை</font></td><td><font color="Black">The Possession of Patience, Forbearance</font></td><td><font color="Black">Poraiyutaimai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl17_HyperLink1" href="thirukurals/16">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>17</td><td>அழுக்காறாமை</td><td>Not Envying</td><td>Azhukkaaraamai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl18_HyperLink1" href="thirukurals/17">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">18</font></td><td><font color="Black">வெஃகாமை</font></td><td><font color="Black">Not Coveting</font></td><td><font color="Black">Veqkaamai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl19_HyperLink1" href="thirukurals/18">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>19</td><td>புறங்கூறாமை</td><td>Not Backbiting</td><td>Purangooraamai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl20_HyperLink1" href="thirukurals/19">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">20</font></td><td><font color="Black">பயனில சொல்லாமை</font></td><td><font color="Black">Against Vain Speaking</font></td><td><font color="Black">Payanila Sollaamai </font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl21_HyperLink1" href="thirukurals/20">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>21</td><td>தீவினையச்சம்</td><td>Dread of Evil Deeds</td><td>Theevinaiyachcham</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl22_HyperLink1" href="thirukurals/21">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">22</font></td><td><font color="Black">ஒப்புரவறிதல்</font></td><td><font color="Black">Duty to Society</font></td><td><font color="Black">Oppuravaridhal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl23_HyperLink1" href="thirukurals/22">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>23</td><td>ஈ.கை</td><td>Giving</td><td>Eekai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl24_HyperLink1" href="thirukurals/23">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">24</font></td><td><font color="Black">புகழ்</font></td><td><font color="Black">Renown</font></td><td><font color="Black">Pukazh</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl25_HyperLink1" href="thirukurals/24">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>25</td><td>அருளுடைமை</td><td>Compassion</td><td>Arulutaimai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl26_HyperLink1" href="thirukurals/25">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">26</font></td><td><font color="Black">புலால் மறுத்தல்</font></td><td><font color="Black">Abstinence from Flesh</font></td><td><font color="Black">Pulaanmaruththal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl27_HyperLink1" href="thirukurals/26">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>27</td><td>தவம்</td><td>Penance</td><td>Thavam</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl28_HyperLink1" href="thirukurals/27">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">28</font></td><td><font color="Black">கூடா ஒழுக்கம்</font></td><td><font color="Black">Imposture</font></td><td><font color="Black">Kootaavozhukkam</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl29_HyperLink1" href="thirukurals/28">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>29</td><td>கள்ளாமை</td><td>The Absence of Fraud</td><td>Kallaamai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl30_HyperLink1" href="thirukurals/29">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">30</font></td><td><font color="Black">வாய்மை</font></td><td><font color="Black">Veracity</font></td><td><font color="Black">Vaaimai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl31_HyperLink1" href="thirukurals/30">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>31</td><td>வெகுளாமை</td><td>Restraining Anger</td><td>Vekulaamai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl32_HyperLink1" href="thirukurals/31">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">32</font></td><td><font color="Black">இன்னா செய்யாமை</font></td><td><font color="Black">Not doing Evil</font></td><td><font color="Black">Innaaseyyaamai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl33_HyperLink1" href="thirukurals/32">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>33</td><td>கொல்லாமை</td><td>Not killing</td><td>Kollaamai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl34_HyperLink1" href="thirukurals/33">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">34</font></td><td><font color="Black">நிலையாமை</font></td><td><font color="Black">Instability</font></td><td><font color="Black">Nilaiyaamai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl35_HyperLink1" href="thirukurals/34">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>35</td><td>துறவு</td><td>Renunciation</td><td>Thuravu</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl36_HyperLink1" href="thirukurals/35">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">36</font></td><td><font color="Black">மெய்யுணர்தல்</font></td><td><font color="Black">Truth-Conciousness</font></td><td><font color="Black">Meyyunardhal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl37_HyperLink1" href="thirukurals/36">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>37</td><td>அவா அறுத்தல்</td><td>Curbing of Desire</td><td>Avaavaruththal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl38_HyperLink1" href="thirukurals/37">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">38</font></td><td><font color="Black">ஊழ்</font></td><td><font color="Black">Fate</font></td><td><font color="Black">Oozh</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl39_HyperLink1" href="thirukurals/38">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>39</td><td>இறைமாட்சி</td><td>The Greatness of a King</td><td>Iraimaatchi</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl40_HyperLink1" href="thirukurals/39">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">40</font></td><td><font color="Black">கல்வி</font></td><td><font color="Black">Learning</font></td><td><font color="Black">Kalvi</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl41_HyperLink1" href="thirukurals/40">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>41</td><td>கல்லாமை</td><td>Ignorance</td><td>Kallaamai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl42_HyperLink1" href="thirukurals/41">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">42</font></td><td><font color="Black">கேள்வி</font></td><td><font color="Black">Hearing</font></td><td><font color="Black">Kelvi</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl43_HyperLink1" href="thirukurals/42">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>43</td><td>அறிவுடைமை</td><td>The Possession of Knowledge</td><td>Arivutaimai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl44_HyperLink1" href="thirukurals/43">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">44</font></td><td><font color="Black">குற்றங்கடிதல்</font></td><td><font color="Black">The Correction of Faults</font></td><td><font color="Black">Kutrangatidhal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl45_HyperLink1" href="thirukurals/44">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>45</td><td>பெரியாரைத் துணைக்கோடல்</td><td>Seeking the Aid of Great Men</td><td>Periyaaraith Thunaikkotal </td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl46_HyperLink1" href="thirukurals/45">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">46</font></td><td><font color="Black">சிற்றினம் சேராமை</font></td><td><font color="Black">Avoiding mean Associations</font></td><td><font color="Black">Sitrinanjeraamai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl47_HyperLink1" href="thirukurals/46">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>47</td><td>தெரிந்து செயல்வகை</td><td>Acting after due Consideration</td><td>Therindhuseyalvakai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl48_HyperLink1" href="thirukurals/47">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">48</font></td><td><font color="Black">வலியறிதல்</font></td><td><font color="Black">The Knowledge of Power</font></td><td><font color="Black">Valiyaridhal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl49_HyperLink1" href="thirukurals/48">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>49</td><td>காலமறிதல்</td><td>Knowing the fitting Time</td><td>Kaalamaridhal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl50_HyperLink1" href="thirukurals/49">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">50</font></td><td><font color="Black">இடனறிதல்</font></td><td><font color="Black">Knowing the Place</font></td><td><font color="Black">Itanaridhal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl51_HyperLink1" href="thirukurals/50">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>51</td><td>தெரிந்து தெளிதல்</td><td>Selection and Confidence</td><td>Therindhudhelidhal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl52_HyperLink1" href="thirukurals/51">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">52</font></td><td><font color="Black">தெரிந்து வினையாடல்</font></td><td><font color="Black">Selection and Employment</font></td><td><font color="Black">Therindhuvinaiyaatal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl53_HyperLink1" href="thirukurals/52">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>53</td><td>சுற்றந் தழால்</td><td>Cherishing Kinsmen</td><td>Sutrandhazhaal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl54_HyperLink1" href="thirukurals/53">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">54</font></td><td><font color="Black">பொச்சாவாமை</font></td><td><font color="Black">Unforgetfulness</font></td><td><font color="Black">Pochchaavaamai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl55_HyperLink1" href="thirukurals/54">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>55</td><td>செங்கோன்மை</td><td>The Right Sceptre</td><td>Sengonmai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl56_HyperLink1" href="thirukurals/55">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">56</font></td><td><font color="Black">கொடுங்கோன்மை</font></td><td><font color="Black">The Cruel Sceptre</font></td><td><font color="Black">Kotungonmai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl57_HyperLink1" href="thirukurals/56">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>57</td><td>வெருவந்த செய்யாமை</td><td>Absence of Terrorism</td><td>Veruvandhaseyyaamai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl58_HyperLink1" href="thirukurals/57">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">58</font></td><td><font color="Black">கண்ணோட்டம்</font></td><td><font color="Black">Benignity</font></td><td><font color="Black">Kannottam</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl59_HyperLink1" href="thirukurals/58">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>59</td><td>ஒற்றாடல்</td><td>Detectives</td><td>Otraatal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl60_HyperLink1" href="thirukurals/59">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">60</font></td><td><font color="Black">ஊக்கம் உடைமை</font></td><td><font color="Black">Energy</font></td><td><font color="Black">Ookkamutaimai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl61_HyperLink1" href="thirukurals/60">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>61</td><td>மடி இன்மை</td><td>Unsluggishness</td><td>Matiyinmai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl62_HyperLink1" href="thirukurals/61">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">62</font></td><td><font color="Black">ஆள்வினை உடைமை</font></td><td><font color="Black">Manly Effort</font></td><td><font color="Black">Aalvinaiyutaimai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl63_HyperLink1" href="thirukurals/62">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>63</td><td>இடுக்கண் அழியாமை</td><td>Hopefulness in Trouble</td><td>Itukkan Azhiyaamai </td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl64_HyperLink1" href="thirukurals/63">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">64</font></td><td><font color="Black">அமைச்சு</font></td><td><font color="Black">The Office of Minister of state</font></td><td><font color="Black">Amaichchu</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl65_HyperLink1" href="thirukurals/64">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>65</td><td>சொல்வன்மை</td><td>Power of Speech</td><td>Solvanmai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl66_HyperLink1" href="thirukurals/65">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">66</font></td><td><font color="Black">வினைத் தூய்மை</font></td><td><font color="Black">Purity in Action</font></td><td><font color="Black">Vinaiththooimai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl67_HyperLink1" href="thirukurals/66">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>67</td><td>வினைத்திட்பம்</td><td>Power in Action</td><td>Vinaiththitpam</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl68_HyperLink1" href="thirukurals/67">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">68</font></td><td><font color="Black">வினை செயல்வகை</font></td><td><font color="Black">Modes of Action</font></td><td><font color="Black">Vinaiseyalvakai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl69_HyperLink1" href="thirukurals/68">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>69</td><td>தூது</td><td>The Envoy</td><td>Thoodhu</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl70_HyperLink1" href="thirukurals/69">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">70</font></td><td><font color="Black">மன்னரைச் சேர்ந்து ஒழுகல்</font></td><td><font color="Black">Conduct in the Presence of the King</font></td><td><font color="Black">Mannaraich Cherndhozhudhal </font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl71_HyperLink1" href="thirukurals/70">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>71</td><td>குறிப்பறிதல்</td><td>The Knowledge of Indications</td><td>Kuripparidhal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl72_HyperLink1" href="thirukurals/71">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">72</font></td><td><font color="Black">அவை அறிதல்</font></td><td><font color="Black">The Knowledge of the Council Chamber</font></td><td><font color="Black">Avaiyaridhal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl73_HyperLink1" href="thirukurals/72">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>73</td><td>அவை அஞ்சாமை</td><td>Not to dread the Council</td><td>Avaiyanjaamai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl74_HyperLink1" href="thirukurals/73">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">74</font></td><td><font color="Black">நாடு</font></td><td><font color="Black">The Land</font></td><td><font color="Black">Naatu</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl75_HyperLink1" href="thirukurals/74">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>75</td><td>அரண்</td><td>The Fortification</td><td>Aran</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl76_HyperLink1" href="thirukurals/75">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">76</font></td><td><font color="Black">பொருள் செயல்வகை</font></td><td><font color="Black">Way of Accumulating Wealth</font></td><td><font color="Black">Porulseyalvakai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl77_HyperLink1" href="thirukurals/76">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>77</td><td>படை மாட்சி</td><td>The Excellence of an Army</td><td>Pataimaatchi</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl78_HyperLink1" href="thirukurals/77">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">78</font></td><td><font color="Black">படைச் செருக்கு</font></td><td><font color="Black">Military Spirit</font></td><td><font color="Black">Pataichcherukku</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl79_HyperLink1" href="thirukurals/78">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>79</td><td>நட்பு</td><td>Friendship</td><td>Natpu</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl80_HyperLink1" href="thirukurals/79">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">80</font></td><td><font color="Black">நட்பாராய்தல்</font></td><td><font color="Black">Investigation in forming Friendships</font></td><td><font color="Black">Natpaaraaidhal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl81_HyperLink1" href="thirukurals/80">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>81</td><td>பழைமை</td><td>Familiarity</td><td>Pazhaimai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl82_HyperLink1" href="thirukurals/81">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">82</font></td><td><font color="Black">தீ நட்பு</font></td><td><font color="Black">Evil Friendship</font></td><td><font color="Black">Thee Natpu </font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl83_HyperLink1" href="thirukurals/82">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>83</td><td>கூடா நட்பு</td><td>Unreal Friendship</td><td>Kootaanatpu</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl84_HyperLink1" href="thirukurals/83">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">84</font></td><td><font color="Black">பேதைமை</font></td><td><font color="Black">Folly</font></td><td><font color="Black">Pedhaimai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl85_HyperLink1" href="thirukurals/84">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>85</td><td>புல்லறிவாண்மை</td><td>Ignorance</td><td>Pullarivaanmai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl86_HyperLink1" href="thirukurals/85">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">86</font></td><td><font color="Black">இகல்</font></td><td><font color="Black">Hostility</font></td><td><font color="Black">Ikal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl87_HyperLink1" href="thirukurals/86">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>87</td><td>பகை மாட்சி</td><td>The Might of Hatred</td><td>Pakaimaatchi</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl88_HyperLink1" href="thirukurals/87">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">88</font></td><td><font color="Black">பகைத்திறம் தெரிதல்</font></td><td><font color="Black">Knowing the Quality of Hate</font></td><td><font color="Black">Pakaiththirandheridhal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl89_HyperLink1" href="thirukurals/88">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>89</td><td>உட்பகை</td><td>Enmity within</td><td>Utpakai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl90_HyperLink1" href="thirukurals/89">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">90</font></td><td><font color="Black">பெரியாரைப் பிழையாமை</font></td><td><font color="Black">Not Offending the Great</font></td><td><font color="Black">Periyaaraip Pizhaiyaamai </font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl91_HyperLink1" href="thirukurals/90">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>91</td><td>பெண்வழிச் சேறல்</td><td>Being led by Women</td><td>Penvazhichcheral</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl92_HyperLink1" href="thirukurals/91">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">92</font></td><td><font color="Black">வரைவின் மகளிர்</font></td><td><font color="Black">Wanton Women</font></td><td><font color="Black">Varaivinmakalir</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl93_HyperLink1" href="thirukurals/92">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>93</td><td>கள்ளுண்ணாமை</td><td>Not Drinking Palm-Wine</td><td>Kallunnaamai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl94_HyperLink1" href="thirukurals/93">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">94</font></td><td><font color="Black">சூது</font></td><td><font color="Black">Gambling</font></td><td><font color="Black">Soodhu</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl95_HyperLink1" href="thirukurals/94">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>95</td><td>மருந்து</td><td>Medicine</td><td>Marundhu</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl96_HyperLink1" href="thirukurals/95">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">96</font></td><td><font color="Black">குடிமை</font></td><td><font color="Black">Nobility</font></td><td><font color="Black">Kutimai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl97_HyperLink1" href="thirukurals/96">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>97</td><td>மானம்</td><td>Honour</td><td>Maanam</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl98_HyperLink1" href="thirukurals/97">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">98</font></td><td><font color="Black">பெருமை</font></td><td><font color="Black">Greatness</font></td><td><font color="Black">Perumai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl99_HyperLink1" href="thirukurals/98">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>99</td><td>சான்றாண்மை</td><td>Perfectness</td><td>Saandraanmai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl100_HyperLink1" href="thirukurals/99">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">100</font></td><td><font color="Black">பண்புடைமை</font></td><td><font color="Black">Courtesy</font></td><td><font color="Black">Panputaimai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl101_HyperLink1" href="thirukurals/100">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>101</td><td>நன்றியில் செல்வம்</td><td>Wealth without Benefaction</td><td>Nandriyilselvam</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl102_HyperLink1" href="thirukurals/101">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">102</font></td><td><font color="Black">நாணுடைமை</font></td><td><font color="Black">Shame</font></td><td><font color="Black">Naanutaimai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl103_HyperLink1" href="thirukurals/102">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>103</td><td>குடிசெயல் வகை</td><td>The Way of Maintaining the Family</td><td>Kutiseyalvakai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl104_HyperLink1" href="thirukurals/103">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">104</font></td><td><font color="Black">உழவு</font></td><td><font color="Black">Farming</font></td><td><font color="Black">Uzhavu</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl105_HyperLink1" href="thirukurals/104">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>105</td><td>நல்குரவு</td><td>Poverty</td><td>Nalkuravu</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl106_HyperLink1" href="thirukurals/105">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">106</font></td><td><font color="Black">இரவு</font></td><td><font color="Black">Mendicancy</font></td><td><font color="Black">Iravu</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl107_HyperLink1" href="thirukurals/106">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>107</td><td>இரவச்சம்</td><td>The Dread of Mendicancy</td><td>Iravachcham</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl108_HyperLink1" href="thirukurals/107">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">108</font></td><td><font color="Black">கயமை</font></td><td><font color="Black">Baseness</font></td><td><font color="Black">Kayamai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl109_HyperLink1" href="thirukurals/108">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>109</td><td>தகை அணங்குறுத்தல்</td><td>The Pre-marital love</td><td>Thakaiyananguruththal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl110_HyperLink1" href="thirukurals/109">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">110</font></td><td><font color="Black">குறிப்பறிதல்</font></td><td><font color="Black">Recognition of the Signs </font></td><td><font color="Black">Kuripparidhal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl111_HyperLink1" href="thirukurals/110">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>111</td><td>புணர்ச்சி மகிழ்தல்</td><td>Rejoicing in the Embrace</td><td>Punarchchimakizhdhal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl112_HyperLink1" href="thirukurals/111">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">112</font></td><td><font color="Black">நலம் புனைந்து உரைத்தல்</font></td><td><font color="Black">The Praise of her Beauty</font></td><td><font color="Black">Nalampunaindhuraiththal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl113_HyperLink1" href="thirukurals/112">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>113</td><td>காதற் சிறப்புரைத்தல்</td><td>Declaration of Love&#39;s special Excellence</td><td>Kaadharsirappuraiththal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl114_HyperLink1" href="thirukurals/113">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">114</font></td><td><font color="Black">நாணுத் துறவுரைத்தல்</font></td><td><font color="Black">The Abandonment of Reserve</font></td><td><font color="Black">Naanuththuravuraiththal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl115_HyperLink1" href="thirukurals/114">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>115</td><td>அலர் அறிவுறுத்தல்</td><td>The Announcement of the Rumour</td><td>Alararivuruththal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl116_HyperLink1" href="thirukurals/115">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">116</font></td><td><font color="Black">பிரிவு ஆற்றாமை</font></td><td><font color="Black">Separation unendurable</font></td><td><font color="Black">Pirivaatraamai</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl117_HyperLink1" href="thirukurals/116">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>117</td><td>படர்மெலிந் திரங்கல்</td><td>Complainings</td><td>Patarmelindhirangal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl118_HyperLink1" href="thirukurals/117">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">118</font></td><td><font color="Black">கண் விதுப்பழிதல்</font></td><td><font color="Black">Eyes consumed with Grief</font></td><td><font color="Black">Kanvidhuppazhidhal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl119_HyperLink1" href="thirukurals/118">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>119</td><td>பசப்புறு பருவரல்</td><td>The Pallid Hue</td><td>Pasapparuparuvaral</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl120_HyperLink1" href="thirukurals/119">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">120</font></td><td><font color="Black">தனிப்படர் மிகுதி</font></td><td><font color="Black">The Solitary Anguish</font></td><td><font color="Black">Thanippatarmikudhi</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl121_HyperLink1" href="thirukurals/120">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>121</td><td>நினைந்தவர் புலம்பல்</td><td>Sad Memories</td><td>Ninaindhavarpulampal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl122_HyperLink1" href="thirukurals/121">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">122</font></td><td><font color="Black">கனவுநிலை உரைத்தல்</font></td><td><font color="Black">The Visions of the Night</font></td><td><font color="Black">Kanavunilaiyuraiththal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl123_HyperLink1" href="thirukurals/122">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>123</td><td>பொழுதுகண்டு இரங்கல்</td><td>Lamentations at Eventide</td><td>Pozhudhukantirangal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl124_HyperLink1" href="thirukurals/123">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">124</font></td><td><font color="Black">உறுப்புநலன் அழிதல்</font></td><td><font color="Black">Wasting Away</font></td><td><font color="Black">Uruppunalanazhidhal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl125_HyperLink1" href="thirukurals/124">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>125</td><td>நெஞ்சொடு கிளத்தல்</td><td>Soliloquy</td><td>Nenjotukilaththal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl126_HyperLink1" href="thirukurals/125">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">126</font></td><td><font color="Black">நிறையழிதல்</font></td><td><font color="Black">Reserve Overcome</font></td><td><font color="Black">Niraiyazhidhal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl127_HyperLink1" href="thirukurals/126">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>127</td><td>அவர்வயின் விதும்பல்</td><td>Mutual Desire</td><td>Avarvayinvidhumpal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl128_HyperLink1" href="thirukurals/127">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">128</font></td><td><font color="Black">குறிப்பறிவுறுத்தல்</font></td><td><font color="Black">The Reading of the Signs</font></td><td><font color="Black">Kuripparivuruththal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl129_HyperLink1" href="thirukurals/128">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>129</td><td>புணர்ச்சி விதும்பல்</td><td>Desire for Reunion</td><td>Punarchchividhumpal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl130_HyperLink1" href="thirukurals/129">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">130</font></td><td><font color="Black">நெஞ்சொடு புலத்தல்</font></td><td><font color="Black">Expostulation with Oneself</font></td><td><font color="Black">Nenjotupulaththal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl131_HyperLink1" href="thirukurals/130">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>131</td><td>புலவி</td><td>Pouting</td><td>Pulavi</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl132_HyperLink1" href="thirukurals/131">Kurals</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">132</font></td><td><font color="Black">புலவி நுணுக்கம்</font></td><td><font color="Black">Feigned Anger</font></td><td><font color="Black">Pulavi Nunukkam </font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl133_HyperLink1" href="thirukurals/132">Kurals</a>
+                                </font></td>
+		</tr><tr>
+			<td>133</td><td>ஊடலுவகை</td><td>The Pleasures of Temporary Variance</td><td>Ootaluvakai</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chapters_ctl134_HyperLink1" href="thirukurals/133">Kurals</a>
+                                </td>
+		</tr>
+	</table>
+</div>
+
+            </td>
+        </tr>
+    </table>
+
+
+                </td>
+            </tr>
+        </table>
+        <!-- Footer -->
+        <br><br>This backup is hosted by Sivasuthan Dhayalan
+    </div>
+    </form>
+  
+</body>
+</html>

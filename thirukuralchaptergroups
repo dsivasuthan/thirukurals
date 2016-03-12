@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"><meta name="description" content="thirukural in tamil, english and transliteration" /><meta id="ctl00_ctl00_ctrl_keywords" name="keywords" content="thirukural, thirukural tamil, thirukural english translation, thirukural transliteration, thirukural search, thirukkural, kural, திருக்குறள்" /><title>
+	Thirukural in Tamil, English and Transliteration
+</title>
+
+<body class="body">
+    <form name="aspnetForm" method="post" action="thirukuralchaptergroups" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="AD4B7E7D" />
+    <div id="ctl00_ctl00_div_main">
+        
+        <!-- Header -->
+        
+                    <!-- Secondary Tabs -->
+                    
+<table class = "secondaryTabs" cellpadding = "0" cellspacing = "0">
+    <tr>
+        <td>         
+            <a id="ctl00_ctl00_cph_secondarytabs_hlnk_thirukurals" href="thirukurals">Thirukurals</a> | 
+            
+            <a id="ctl00_ctl00_cph_secondarytabs_hlnk_chapters" href="thirukuralchapters">Chapters</a> | 
+            <a id="ctl00_ctl00_cph_secondarytabs_hlnk_sections" href="thirukuralsections">Sections</a> | 
+            <a id="ctl00_ctl00_cph_secondarytabs_hlnk_chaptergroups" class="active" href="thirukuralchaptergroups">Chapter Groups</a> | 
+             
+            <a id="ctl00_ctl00_cph_secondarytabs_hlnk_about" href="http://sivasuthan.com">About </a>
+        </td>
+    </tr>
+</table>
+
+                    
+                    <!-- Body  -->
+                    
+    
+
+    <table cellpadding="0" cellspacing="0" class="parentTable contentBody">
+        <tr>
+            <td>
+                <div class="pageHeader">
+                   இயல்கள்/ChapterGroups/Iyalgal</div>
+            <br />
+
+             <div>
+	<table cellspacing="0" cellpadding="3" rules="all" bordercolor="#000666" border="1" id="ctl00_ctl00_cph_body_cph_innerbody_grd_chaptergroups">
+		<tr align="left" bgcolor="DarkCyan">
+			<th align="left" scope="col"><font color="White">#</font></th><th align="left" scope="col"><font color="White">Tamil</font></th><th align="left" scope="col"><font color="White">English</font></th><th align="left" scope="col"><font color="White">Transliteration</font></th><th scope="col"><font color="White">Chapters</font></th>
+		</tr><tr>
+			<td>1</td><td>பாயிரவியல்</td><td>Prologue</td><td>Paayiraviyal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chaptergroups_ctl02_HyperLink1" href="thirukuralchaptersbygroups/1">Chapters</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">2</font></td><td><font color="Black">இல்லறவியல்</font></td><td><font color="Black">Domestic Virtue</font></td><td><font color="Black">Illaraviyal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chaptergroups_ctl03_HyperLink1" href="thirukuralchaptersbygroups/2">Chapters</a>
+                                </font></td>
+		</tr><tr>
+			<td>3</td><td>துறவறவியல்</td><td>Ascetic Virtue</td><td>Thuravaraviyal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chaptergroups_ctl04_HyperLink1" href="thirukuralchaptersbygroups/3">Chapters</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">4</font></td><td><font color="Black">ஊழியல்</font></td><td><font color="Black">Fate</font></td><td><font color="Black">Oozhiyal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chaptergroups_ctl05_HyperLink1" href="thirukuralchaptersbygroups/4">Chapters</a>
+                                </font></td>
+		</tr><tr>
+			<td>5</td><td>அரசியல்</td><td>Royalty</td><td>Arasiyal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chaptergroups_ctl06_HyperLink1" href="thirukuralchaptersbygroups/5">Chapters</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">6</font></td><td><font color="Black">அமைச்சியல்</font></td><td><font color="Black">Ministers of State</font></td><td><font color="Black">Amaichiyal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chaptergroups_ctl07_HyperLink1" href="thirukuralchaptersbygroups/6">Chapters</a>
+                                </font></td>
+		</tr><tr>
+			<td>7</td><td>அரணியல்</td><td>The Essentials of a State</td><td>Araniyal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chaptergroups_ctl08_HyperLink1" href="thirukuralchaptersbygroups/7">Chapters</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">8</font></td><td><font color="Black">கூழியல்</font></td><td><font color="Black">Way of Making Wealth</font></td><td><font color="Black">Koozhiyal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chaptergroups_ctl09_HyperLink1" href="thirukuralchaptersbygroups/8">Chapters</a>
+                                </font></td>
+		</tr><tr>
+			<td>9</td><td>படையில்</td><td>The Excellence of an Army</td><td>Padaiyil</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chaptergroups_ctl10_HyperLink1" href="thirukuralchaptersbygroups/9">Chapters</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">10</font></td><td><font color="Black">நட்பியல்</font></td><td><font color="Black">Friendship</font></td><td><font color="Black">Natpiyal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chaptergroups_ctl11_HyperLink1" href="thirukuralchaptersbygroups/10">Chapters</a>
+                                </font></td>
+		</tr><tr>
+			<td>11</td><td>குடியியல்</td><td>Miscellaneous</td><td>Kudiyiyal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chaptergroups_ctl12_HyperLink1" href="thirukuralchaptersbygroups/11">Chapters</a>
+                                </td>
+		</tr><tr bgcolor="#D8EBEB">
+			<td><font color="Black">12</font></td><td><font color="Black">களவியல்</font></td><td><font color="Black">The Pre-marital love</font></td><td><font color="Black">Kalaviyal</font></td><td><font color="Black">
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chaptergroups_ctl13_HyperLink1" href="thirukuralchaptersbygroups/12">Chapters</a>
+                                </font></td>
+		</tr><tr>
+			<td>13</td><td>கற்பியல்</td><td>The Post-marital love</td><td>Karpiyal</td><td>
+                                    <a id="ctl00_ctl00_cph_body_cph_innerbody_grd_chaptergroups_ctl14_HyperLink1" href="thirukuralchaptersbygroups/13">Chapters</a>
+                                </td>
+		</tr>
+	</table>
+</div>
+
+            </td>
+        </tr>
+    </table>
+
+
+                </td>
+            </tr>
+        </table>
+        <!-- Footer -->
+                <br><br>This backup is hosted by Sivasuthan Dhayalan
+    </div>
+    </form>
+  
+</body>
+</html>
